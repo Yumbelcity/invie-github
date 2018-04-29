@@ -2,7 +2,7 @@
 ¿Qué ha cambiado?
 
 - [ ] Frontend
-- [ ] Backtend
+- [ ] Backend
 - [ ] Configuración del server
 
 # ¿Cómo puedo probar los cambios?
